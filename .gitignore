@@ -1,0 +1,19 @@
+# Environment and sensitive keys
+.env
+*.env
+.env.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS artifacts
+.DS_Store
+Thumbs.db

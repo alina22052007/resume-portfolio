@@ -1,0 +1,484 @@
+{
+  "status": "ready",
+  "sheet_tabs": [
+    "Personal_Info",
+    "Education",
+    "Skills",
+    "Certifications",
+    "Projects",
+    "Experience",
+    "Achievements",
+    "Publications",
+    "Languages"
+  ],
+  "sheets": {
+    "Personal_Info": {
+      "headers": [
+        "ID",
+        "Full Name",
+        "Title",
+        "Email",
+        "Phone",
+        "Location",
+        "LinkedIn",
+        "GitHub",
+        "Portfolio URL",
+        "Summary"
+      ],
+      "rows": [
+        [
+          1,
+          "Aarav Sharma",
+          "Full Stack & AI Systems Engineer",
+          "aarav.sharma.demo@example.com",
+          "+91 98765 43210",
+          "Navi Mumbai, MH, India",
+          "https://linkedin.com/in/aarav-sharma-demo",
+          "https://github.com/aaravsharma-dev",
+          "https://aaravsharma.dev",
+          "Versatile Software Engineer with strong foundations in distributed backend systems, modern web architecture, and applied machine learning. Proven track record of architecting scalable RESTful microservices, fine-tuning LLMs, and deploying cloud-native containerized applications. Passionate about solving complex problems at the intersection of full-stack engineering and intelligent automation."
+        ]
+      ]
+    },
+    "Education": {
+      "headers": [
+        "ID",
+        "Institution",
+        "Degree",
+        "Field of Study",
+        "Start Year",
+        "End Year",
+        "Grade/GPA",
+        "Location",
+        "Description"
+      ],
+      "rows": [
+        [
+          1,
+          "University Institute of Technology, Kharghar",
+          "Bachelor of Technology (B.Tech)",
+          "Computer Science and Engineering",
+          "2021",
+          "2025",
+          "9.2 / 10.0 CGPA",
+          "Navi Mumbai, India",
+          "Relevant Coursework: Data Structures & Algorithms, Distributed Systems, Database Management Systems, Machine Learning, Cloud Computing, Object-Oriented Analysis & Design."
+        ],
+        [
+          2,
+          "St. Xavier Higher Secondary College",
+          "Higher Secondary Certificate (HSC)",
+          "Science (PCM & Computer Science)",
+          "2019",
+          "2021",
+          "94.8%",
+          "Mumbai, India",
+          "Graduated with Distinction in Mathematics and Computer Science."
+        ]
+      ]
+    },
+    "Skills": {
+      "headers": [
+        "ID",
+        "Skill Name",
+        "Category",
+        "Proficiency Level",
+        "Years Experience"
+      ],
+      "rows": [
+        [
+          49,
+          "Python",
+          "technical",
+          "Expert",
+          4.0
+        ],
+        [
+          50,
+          "JavaScript (ES6+)",
+          "technical",
+          "Expert",
+          3.5
+        ],
+        [
+          51,
+          "TypeScript",
+          "technical",
+          "Advanced",
+          2.5
+        ],
+        [
+          52,
+          "React.js",
+          "framework",
+          "Advanced",
+          3.0
+        ],
+        [
+          53,
+          "Next.js",
+          "framework",
+          "Advanced",
+          2.0
+        ],
+        [
+          54,
+          "Node.js",
+          "technical",
+          "Advanced",
+          3.0
+        ],
+        [
+          55,
+          "FastAPI",
+          "framework",
+          "Advanced",
+          2.5
+        ],
+        [
+          56,
+          "Flask",
+          "framework",
+          "Advanced",
+          3.0
+        ],
+        [
+          57,
+          "PostgreSQL",
+          "database",
+          "Advanced",
+          3.0
+        ],
+        [
+          58,
+          "SQLite",
+          "database",
+          "Expert",
+          3.5
+        ],
+        [
+          59,
+          "MongoDB",
+          "database",
+          "Intermediate",
+          2.0
+        ],
+        [
+          60,
+          "Docker",
+          "cloud_devops",
+          "Advanced",
+          2.5
+        ],
+        [
+          61,
+          "Kubernetes",
+          "cloud_devops",
+          "Intermediate",
+          1.5
+        ],
+        [
+          62,
+          "AWS (S3, EC2, Lambda)",
+          "cloud_devops",
+          "Advanced",
+          2.0
+        ],
+        [
+          63,
+          "Git & GitHub CI/CD",
+          "tool",
+          "Expert",
+          4.0
+        ],
+        [
+          64,
+          "RESTful API Design",
+          "technical",
+          "Expert",
+          3.5
+        ],
+        [
+          65,
+          "GraphQL",
+          "technical",
+          "Intermediate",
+          1.5
+        ],
+        [
+          66,
+          "PyTorch",
+          "framework",
+          "Advanced",
+          2.0
+        ],
+        [
+          67,
+          "TensorFlow",
+          "framework",
+          "Intermediate",
+          2.0
+        ],
+        [
+          68,
+          "Scikit-learn",
+          "framework",
+          "Advanced",
+          2.5
+        ],
+        [
+          69,
+          "Gemini API & LLMs",
+          "technical",
+          "Advanced",
+          2.0
+        ],
+        [
+          70,
+          "Agile / Scrum Methodology",
+          "soft",
+          "Advanced",
+          2.5
+        ],
+        [
+          71,
+          "Technical Problem Solving",
+          "soft",
+          "Expert",
+          4.0
+        ],
+        [
+          72,
+          "Cross-Functional Collaboration",
+          "soft",
+          "Expert",
+          3.5
+        ]
+      ]
+    },
+    "Certifications": {
+      "headers": [
+        "ID",
+        "Certification Title",
+        "Issuer",
+        "Issue Date",
+        "Expiration Date",
+        "Credential ID",
+        "Skills Covered"
+      ],
+      "rows": [
+        [
+          1,
+          "AWS Certified Solutions Architect \u2013 Associate",
+          "Amazon Web Services",
+          "2024-03-15",
+          "2027-03-15",
+          "AWS-ASA-892104",
+          "Cloud Architecture, High Availability, S3, EC2, IAM, VPC, Microservices"
+        ],
+        [
+          2,
+          "DeepLearning.AI Machine Learning Specialization",
+          "Coursera / Stanford Online",
+          "2023-11-20",
+          null,
+          "COURSERA-ML-77291",
+          "Supervised Learning, Neural Networks, PyTorch, Model Evaluation, Unsupervised Learning"
+        ],
+        [
+          3,
+          "Google Cloud Professional Cloud Developer",
+          "Google Cloud",
+          "2024-08-10",
+          "2026-08-10",
+          "GCP-PCD-44102",
+          "Cloud Run, Kubernetes Engine, Cloud Functions, Pub/Sub, Firestore"
+        ]
+      ]
+    },
+    "Projects": {
+      "headers": [
+        "ID",
+        "Project Title",
+        "Role",
+        "Tech Stack",
+        "Description",
+        "Key Highlights",
+        "Repository URL",
+        "Live Demo URL"
+      ],
+      "rows": [
+        [
+          1,
+          "Distributed Asynchronous Job Scheduler & Worker Pool",
+          "Lead Backend Architect",
+          "Python, FastAPI, Redis, PostgreSQL, Docker, Prometheus",
+          "High-throughput distributed task processing queue with rate limiting, retry semantics, and live metrics dashboard.",
+          "Engineered a multi-worker asynchronous task queue capable of handling 8,000+ jobs/sec with sub-50ms latency. | Implemented exponential backoff, dead-letter queues, and dynamic priority scheduling to prevent worker starvation. | Reduced infrastructure compute costs by 34% by optimizing thread pool concurrency and connection pooling.",
+          "https://github.com/aaravsharma-dev/distributed-task-runner",
+          "https://runner-demo.aaravsharma.dev"
+        ],
+        [
+          2,
+          "Multi-Modal AI Healthcare Diagnosis Support Agent",
+          "AI & Full Stack Developer",
+          "Python, PyTorch, Gemini API, FastAPI, React.js, Tailwind CSS",
+          "End-to-end clinical diagnosis assistant processing medical imaging (X-rays) and clinical notes using Gemini Multimodal LLM.",
+          "Integrated Gemini Multimodal Vision API to parse radiologist reports with 94.2% diagnostic concordance against benchmark datasets. | Designed strict hallucination verification guardrails ensuring zero medical claims are generated outside authorized medical corpora. | Built a HIPAA-conscious React front-end featuring interactive DICOM image heatmaps and citation tracing.",
+          "https://github.com/aaravsharma-dev/med-gemini-assistant",
+          "https://medai.aaravsharma.dev"
+        ],
+        [
+          3,
+          "Real-Time Collaborative Code & Markdown Workspace",
+          "Full Stack Engineer",
+          "TypeScript, Node.js, WebSockets, React, Yjs, Docker",
+          "Multiplayer markdown documentation editor with conflict-free replicated data types (CRDTs) and syntax highlighting.",
+          "Implemented Conflict-Free Replicated Data Types (CRDTs) using Yjs over WebSockets for zero-conflict concurrent editing across 50+ simultaneous peers. | Designed low-latency cursor tracking and diff synchronization with under 15ms broadcast latency. | Packaged with Docker and deployed on AWS ECS with auto-scaling container tasks.",
+          "https://github.com/aaravsharma-dev/collab-code-workspace",
+          "https://collab.aaravsharma.dev"
+        ],
+        [
+          4,
+          "Automated CI/CD DevOps Pipeline & Security Scanner",
+          "DevOps & Backend Engineer",
+          "Python, GitHub Actions, Docker, Kubernetes, AWS EKS, Bash",
+          "Automated pipeline engine running static analysis, vulnerability checking (Trivy), and automated blue-green deployments.",
+          "Constructed fully automated CI/CD pipeline reducing release cycles from 45 minutes to 7 minutes. | Integrated automated container scanning and SBOM generation, catching 100% of high-severity CVEs prior to production merge.",
+          "https://github.com/aaravsharma-dev/devops-security-pipeline",
+          "https://pipeline-docs.aaravsharma.dev"
+        ]
+      ]
+    },
+    "Experience": {
+      "headers": [
+        "ID",
+        "Job Title",
+        "Company",
+        "Type",
+        "Location",
+        "Start Date",
+        "End Date",
+        "Tech Stack",
+        "Description",
+        "Achievements / Highlights"
+      ],
+      "rows": [
+        [
+          1,
+          "Software Engineering Intern (Backend & Cloud)",
+          "CloudScale Systems Pvt. Ltd.",
+          "Internship",
+          "Mumbai, India (Hybrid)",
+          "2024-01-05",
+          "2024-07-20",
+          "Python, FastAPI, PostgreSQL, Redis, Docker, Kubernetes, AWS, PyTest",
+          "Core backend engineering on microservices architecture serving 250,000+ monthly active users.",
+          "Architected and deployed 4 core RESTful microservices in Python (FastAPI) and PostgreSQL, handling 1.2M daily requests. | Optimized slow database queries through strategic composite indexing and caching, slashing 95th percentile latency from 320ms to 45ms. | Collaborated with DevOps team to configure Docker containerization and Kubernetes Helm charts for automated staging rollouts. | Authored comprehensive unit and integration test suites achieving 89% code coverage in PyTest."
+        ],
+        [
+          2,
+          "Full Stack Developer Intern",
+          "InnoTech Digital Labs",
+          "Internship",
+          "Pune, India (Remote)",
+          "2023-05-15",
+          "2023-11-30",
+          "React.js, TypeScript, Node.js, Express, MongoDB, REST APIs",
+          "Full-stack development for enterprise client dashboards and analytics reporting systems.",
+          "Developed dynamic interactive analytics dashboards using React.js, TypeScript, and Chart.js, increasing daily customer engagement by 28%. | Engineered secure JWT-based role-based access control (RBAC) and OAuth2 authentication pipelines. | Integrated external payment gateways (Stripe & Razorpay) with automated webhook idempotency handlers."
+        ]
+      ]
+    },
+    "Achievements": {
+      "headers": [
+        "ID",
+        "Award Title",
+        "Issuing Body",
+        "Date",
+        "Category",
+        "Description"
+      ],
+      "rows": [
+        [
+          1,
+          "1st Prize Winner - National Smart India Hackathon",
+          "Ministry of Education & AICTE",
+          "2023-12-22",
+          "Hackathon",
+          "Won national championship among 2,500+ participating teams by building an AI-assisted disaster response logistics dispatcher in 36 hours."
+        ],
+        [
+          2,
+          "ACM ICPC Regional Contestant",
+          "International Collegiate Programming Contest",
+          "2023-10-14",
+          "Academic",
+          "Secured top 5% rank in regional collegiate competitive programming contest solving complex algorithmic graph and DP problems."
+        ],
+        [
+          3,
+          "Dean\u2019s List of Academic Distinction",
+          "University Academic Board",
+          "2022-06-30",
+          "Academic",
+          "Awarded for maintaining top 1% academic percentile in the Computer Science department across consecutive semesters."
+        ]
+      ]
+    },
+    "Publications": {
+      "headers": [
+        "ID",
+        "Paper Title",
+        "Publisher/Journal",
+        "Date",
+        "Authors",
+        "URL",
+        "DOI",
+        "Abstract"
+      ],
+      "rows": [
+        [
+          1,
+          "A Resilient Architecture for Low-Latency Distributed Microservices Using Adaptive Caching and Predictive Prefetching",
+          "IEEE International Conference on Advanced Computing & Communication (ICACC)",
+          "2024-04-18",
+          "Aarav Sharma, Dr. P. S. Khanvilkar, K. Mehta",
+          "https://doi.org/10.1109/ICACC.2024.1049281",
+          "10.1109/ICACC.2024.1049281",
+          "This paper presents an adaptive multi-tier caching mechanism for cloud-native microservices that leverages lightweight predictive prefetching. Experimental evaluations demonstrate a 42% reduction in end-to-end p99 latency under fluctuating burst loads."
+        ]
+      ]
+    },
+    "Languages": {
+      "headers": [
+        "ID",
+        "Language",
+        "Proficiency Level"
+      ],
+      "rows": [
+        [
+          9,
+          "English",
+          "Full professional"
+        ],
+        [
+          10,
+          "Hindi",
+          "Native or bilingual"
+        ],
+        [
+          11,
+          "Marathi",
+          "Professional working"
+        ],
+        [
+          12,
+          "German",
+          "Elementary"
+        ]
+      ]
+    }
+  },
+  "total_records": 44
+}
